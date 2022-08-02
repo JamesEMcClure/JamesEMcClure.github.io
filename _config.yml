@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "J.E. McClure"
   avatar           : "profile.png"
-  bio              : "I am a Research Associate Professor with the Virginia Tech National Security Institute."
-  location         : "Location"
+  bio              : "Research Associate Professor with the Virginia Tech National Security Institute."
+  location         : "Blacksburg, Virginia, USA"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=pyJyikYAAAAJ&hl=en"
   email            :  mcclurej [at] vt.edu
   researchgate     :  "https://www.researchgate.net/profile/James-Mcclure"
