@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate Professor with the Virginia Tech National Security Institute. My research interests include non-equilibrium thermodynamics, parallel and distributed computing, and software co-design for emerging architectures. I am the main developer for the LBPM software package, which relies on lattice Boltzmann methods to simulate a wide range of transport phenomena. 
-
+I am a Research Associate Professor with the Virginia Tech National Security Institute. I have a Ph.D. in Environmental Sciences & Engineering from the University of North Carolina at Chapel Hill. I am the main developer for the [LBPM](https://lbpm-sim.org/) software package, which relies on lattice Boltzmann methods to simulate a wide range of transport phenomena. Current capabilities include fluid flows through complex micro-structures, immiscibile flow and electrochemical transport. 
 
  * Non-Equilibrium Thermodynamics
  * Lattice Boltzmann methods
- * Geometry and topology of complex structures
+ * Geometry and topology of heterogeneous structures
+ * Transport phenomena
  * Software co-design
  * Applications for future computing arcitectures
 
