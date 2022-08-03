@@ -14,8 +14,7 @@ Having completed this course, students will be expected to:
 field
 * be proficient in parallel programming in OpenMP and MPI, both individually and in a hybrid
 setting;
-* be able to assess the scalability of software packages and develop simulation plans which maximize the
-benefit of parallel resources;
+* be able to assess the scalability of software packages and develop effective simulation plans;
 * be familiar with visualization tools and able to generate useful graphical information;
 * be able to synthesize efficient data workflows and manage large data;
 * be comfortable interacting with various HPC resources.
