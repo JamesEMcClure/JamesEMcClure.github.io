@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "J.E. McClure"
+title: "James E. McClure"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
