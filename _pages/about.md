@@ -13,8 +13,8 @@ I am a Research Associate Professor with the Virginia Tech National Security Ins
  * Non-Equilibrium Thermodynamics
  * Lattice Boltzmann methods
  * Geometry and topology of heterogeneous materials
- * Thermodynamics of biological systems 
- * Transport phenomena
+ * Biological transport phenomena 
+ * Data reduction systems 
  * Software co-design
  * Applications for future computing arcitectures
 
